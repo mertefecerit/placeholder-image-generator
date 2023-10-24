@@ -39,4 +39,4 @@ phig.setDimensions(100,100).setText('Example',2).draw();
  - draw() method is required
 
 ## 4. Example
-![exampleImage](./example.png)
+![exampleImage](images/example.png)
