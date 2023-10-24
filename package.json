@@ -1,0 +1,20 @@
+{
+  "name": "placeholder-image-generator",
+  "version": "1.0.5",
+  "description": "Javascript Placeholder Image Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image placeholder",
+    "placeholder",
+    "image generator"
+  ],
+  "author": "mertefecerit",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mertefecerit/placeholder-image-generator"
+  }
+}
